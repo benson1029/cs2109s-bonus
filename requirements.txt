@@ -1,0 +1,8 @@
+numpy
+Pillow
+matplotlib
+notebook
+torch
+graphviz
+seaborn
+transformers
