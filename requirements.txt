@@ -6,3 +6,4 @@ torch
 graphviz
 seaborn
 transformers
+scikit-learn
