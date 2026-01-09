@@ -25,12 +25,12 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benson1029/cs2109s-bonus/HEAD?urlpath=%2Fdoc%2Ftree%2Ftut05_kernels.ipynb)
 
 
-## Tutorial 6 (Week 9): Behind Pytorch Autograd
+## Tutorial 7 (Week 10): Behind Pytorch Autograd
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benson1029/cs2109s-bonus/HEAD?urlpath=%2Fdoc%2Ftree%2Ftut06_autograd.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benson1029/cs2109s-bonus/HEAD?urlpath=%2Fdoc%2Ftree%2Ftut07_autograd.ipynb)
 
 
-## Tutorial 8 (Week 11): Messing with a GPT Model
+## Tutorial 9 (Week 12): Messing with a GPT Model
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benson1029/cs2109s-bonus/HEAD?urlpath=%2Fdoc%2Ftree%2Ftut08_gpt.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benson1029/cs2109s-bonus/HEAD?urlpath=%2Fdoc%2Ftree%2Ftut09_gpt.ipynb)
 
