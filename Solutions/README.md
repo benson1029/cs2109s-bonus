@@ -21,3 +21,7 @@ Will be updated as the sem progresses.
 ## Tutorial 5 (Week 8): Composing Kernels
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benson1029/cs2109s-bonus/HEAD?urlpath=%2Fdoc%2Ftree%2FSolutions%2Ftut05_kernels_soln.ipynb)
+
+## Tutorial 7 (Week 10): Behind Pytorch Autograd
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benson1029/cs2109s-bonus/HEAD?urlpath=%2Fdoc%2Ftree%2FSolutions%2Ftut07_autograd_soln.ipynb)
