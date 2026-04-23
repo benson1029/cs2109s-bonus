@@ -25,3 +25,7 @@ Will be updated as the sem progresses.
 ## Tutorial 7 (Week 10): Behind Pytorch Autograd
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benson1029/cs2109s-bonus/HEAD?urlpath=%2Fdoc%2Ftree%2FSolutions%2Ftut07_autograd_soln.ipynb)
+
+## Tutorial 9 (Week 12): Messing with a GPT Model
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benson1029/cs2109s-bonus/HEAD?urlpath=%2Fdoc%2Ftree%2FSolutions%2Ftut09_gpt_soln.ipynb)
